@@ -1,7 +1,27 @@
-# Wa Wa Wee Wa!
+# Wa Wa Wee Wa! Hello World
 
-This is a newly created file `wawawewa.md` on the `borat` branch.
+**Very nice!** This is a Borat-themed "Hello, World!" showcase on the `borat` branch.
 
-**Very nice!** High five! 
+## Python Hello World
 
-Created via Grok on 2026-06-08.
+```python
+# A very nice Hello World
+print("Wa wa wee wa! Hello, World!")
+```
+
+## JavaScript Hello World
+
+```javascript
+// Very nice!
+console.log("Wa wa wee wa! Hello, World!");
+```
+
+## Bash Hello World
+
+```bash
+echo "Wa wa wee wa! Hello, World!"
+```
+
+**High five!** 
+
+Updated via Grok on 2026-06-08.
